@@ -11,7 +11,7 @@ class NumberWrapper {
     }
 }
 
-public class PassByValueDemo {
+public class PassByValuePrimitiveVsObjectDemo {
 
     public static void main(String[] args) {
         // -------------------------------------------------------------
